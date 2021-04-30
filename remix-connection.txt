@@ -1,0 +1,5 @@
+# Install
+npm install -g @remix-project/remixd
+
+# Connect to remixd
+remixd -s absolute-path-to-the-shared-folder --remix-ide your-remix-ide-URL-instance
